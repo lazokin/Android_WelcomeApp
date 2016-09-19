@@ -18,5 +18,6 @@
         android:id="@+id/welcomeTextView"
         android:textSize="@dimen/welcome_textsize"
         android:textColor="@color/welcome_text_color"
-        android:gravity="center" />
+        android:gravity="center"
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>
